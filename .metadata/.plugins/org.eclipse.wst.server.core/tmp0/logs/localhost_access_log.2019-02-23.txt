@@ -1,0 +1,14 @@
+127.0.0.1 - - [23/Feb/2019:16:13:22 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:16:13:28 +0530] "GET /GemsGalleriaFrontend/ HTTP/1.1" 200 3133
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:16:13:29 +0530] "GET /GemsGalleriaFrontend/main.css HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:16:13:29 +0530] "GET /GemsGalleriaFrontend/resources/images/icon.png HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:16:13:42 +0530] "GET /GemsGalleriaFrontend/login HTTP/1.1" 200 3124
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:16:13:42 +0530] "GET /GemsGalleriaFrontend/main.css HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:16:13:42 +0530] "GET /GemsGalleriaFrontend/resourcesimagesLogin.jpg HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:16:13:54 +0530] "GET /GemsGalleriaFrontend/login?username=kashu&password=pass123&submit=submit HTTP/1.1" 200 3124
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:16:13:54 +0530] "GET /GemsGalleriaFrontend/main.css HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:16:13:54 +0530] "GET /GemsGalleriaFrontend/resourcesimagesLogin.jpg HTTP/1.1" 404 992
+127.0.0.1 - - [23/Feb/2019:23:06:52 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:23:06:57 +0530] "GET /GemsGalleriaFrontend/ HTTP/1.1" 200 3133
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:23:06:58 +0530] "GET /GemsGalleriaFrontend/resources/images/icon.png HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Feb/2019:23:06:58 +0530] "GET /GemsGalleriaFrontend/main.css HTTP/1.1" 404 992

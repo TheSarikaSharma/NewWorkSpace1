@@ -82,7 +82,7 @@ public class ProductController
 		else
 		{
 			
-			m.addAttribute("errorInfo","Problem occured during Uploading:");
+	    	m.addAttribute("errorInfo","Problem occured during Uploading:");
 		}
 	
 		
