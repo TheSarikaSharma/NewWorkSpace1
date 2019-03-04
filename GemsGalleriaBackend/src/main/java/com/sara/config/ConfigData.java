@@ -17,6 +17,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import com.sara.model.CartItem;
 import com.sara.model.Category;
+import com.sara.model.OrderDetail;
 import com.sara.model.Product;
 import com.sara.model.Supplier;
 import com.sara.model.UserDetail;
@@ -57,6 +58,8 @@ public class ConfigData
 		factory.addAnnotatedClass(Supplier.class);
 		factory.addAnnotatedClass(UserDetail.class);
 		factory.addAnnotatedClass(CartItem.class);
+		factory.addAnnotatedClass(OrderDetail.class);
+		
 		System.out.println("---SessionFactory Object  Created ----");
 		
 		return factory.buildSessionFactory();
